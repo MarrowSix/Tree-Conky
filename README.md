@@ -35,3 +35,6 @@ then restart system and you can use command
   conky conky.conf
   ```
 to use that.
+
+**Result show**
+![](https://github.com/MarrowSix/Tree-Conky/raw/master/model.png)
